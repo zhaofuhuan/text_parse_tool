@@ -34,7 +34,9 @@ mysql.connector： 连接和操作 MySQL 数据库    安装这个库 执行cmd�
     
 第三步：
 
-insert_flow_into_db函数 param1 cursor游标在创建时，需要指定表名，以及表中字段
+insert_flow_into_db函数
+
+param1 cursor游标在创建时，需要指定表名，以及表中字段
 
                         param2 key_fields 数组
                         
